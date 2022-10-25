@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francorodriguez99&label=Profile%20views&color=0e75b6&style=flat" alt="francorodriguez99" /> </p>
 

@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francorodriguez99" alt="francorodriguez99" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity and Web 3**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-sigma-three-60.vercel.app/](https://portfolio-sigma-three-60.vercel.app/)
-
 - 💬 Ask me about **anything you want**
 
 - 📫 How to reach me **juanfrancorodriguez99@gmail.com**
